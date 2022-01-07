@@ -1,0 +1,9 @@
+7303,85,187,194,255,Northeastern Interior Dry-Mesic Oak Forest
+7320,85,187,194,255,Central and Southern Appalachian Montane Oak Forest
+7511,0,38,115,255,Appalachian Northern Hardwood Forest
+7321,0,38,115,255,South-Central Interior Mesophytic Forest
+7977,227,212,28,255,Eastern Cool Temperate Pasture and Hayland
+7557,13,69,133,255,Central Appalachian Pine-Oak Rocky Woodland
+7512,0,38,115,255,Appalachian (Hemlock)-Northern Hardwood Forest
+7350,159,255,128,255,Central and Southern Appalachian Spruce-Fir Forest
+9817,255,105,46,255,Northern & Central Ruderal Meadow

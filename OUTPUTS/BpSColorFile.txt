@@ -1,0 +1,14 @@
+1878,144,43,181,255,Central and Southern Appalachian Spruce-Fir Forest
+1870,215,185,100,255,Northeastern Interior Dry-Mesic Oak Forest
+1875,180,130,180,255,Central and Southern Appalachian Montane Oak Forest
+1883,214,255,145,255,Appalachian (Hemlock-)Northern Hardwood Forest
+1882,0,255,220,255,Central Appalachian Dry Oak-Pine Forest
+1888,36,255,20,255,Central Interior and Appalachian Riparian Systems
+1874,138,177,255,255,Southern and Central Appalachian Cove Forest
+1887,0,191,176,255,Central Interior and Appalachian Floodplain Systems
+1885,255,0,77,255,Central Appalachian Pine-Oak Rocky Woodland
+11,0,0,255,255,Open Water
+1884,222,153,122,255,Southern Ridge and Valley/Cumberland Dry Calcareous Forest
+1889,207,61,255,255,Central Interior and Appalachian Swamp Systems
+1879,117,71,197,255,Southern Appalachian Montane Pine Forest and Woodland
+1886,255,153,229,255,Central Appalachian Alkaline Glade and Woodland

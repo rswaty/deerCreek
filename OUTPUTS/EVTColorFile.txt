@@ -1,0 +1,55 @@
+7303,85,187,194,255,Northeastern Interior Dry-Mesic Oak Forest
+7320,85,187,194,255,Central and Southern Appalachian Montane Oak Forest
+7511,0,38,115,255,Appalachian Northern Hardwood Forest
+7321,0,38,115,255,South-Central Interior Mesophytic Forest
+7977,227,212,28,255,Eastern Cool Temperate Pasture and Hayland
+7557,13,69,133,255,Central Appalachian Pine-Oak Rocky Woodland
+7512,0,38,115,255,Appalachian (Hemlock)-Northern Hardwood Forest
+7350,159,255,128,255,Central and Southern Appalachian Spruce-Fir Forest
+9817,255,105,46,255,Northern & Central Ruderal Meadow
+7556,13,69,133,255,Central Appalachian Oak Rocky Woodland
+7299,1,1,1,255,Developed-Roads
+9315,255,105,46,255,Northern & Central Native Ruderal Forest
+7377,13,69,133,255,Central Appalachian Pine Rocky Woodland
+7463,13,69,133,255,Central Appalachian Dry Oak Forest
+7905,112,68,137,255,Eastern Cool Temperate Urban Deciduous Forest
+9224,0,92,0,255,South-Central Interior Small Stream and Riparian Forest
+7502,13,69,133,255,Central Appalachian Dry Oak-Pine Forest
+7318,18,76,135,255,Southern and Central Appalachian Cove Forest
+9312,158,67,14,255,Northeastern North American Temperate Forest Plantation
+9288,85,187,194,255,Northeastern Interior Calcareous Oak Forest
+7292,0,0,255,255,Open Water
+7908,202,122,245,255,Eastern Cool Temperate Urban Herbaceous
+7907,194,158,215,255,Eastern Cool Temperate Urban Mixed Forest
+7370,0,38,115,255,Appalachian Hemlock Forest
+7197,255,59,20,255,Recently Burned-Tree Cover
+7369,13,69,133,255,Central Appalachian Dry Pine Forest
+7935,64,61,168,255,Eastern Warm Temperate Developed Ruderal Deciduous Forest
+9106,0,92,0,255,High Allegheny Wetland
+7296,255,122,143,255,Developed-Low Intensity
+9726,0,92,0,255,South-Central Interior Small Stream and Riparian Herbaceous
+9176,91,195,199,255,North-Central Appalachian Seepage Fen
+7937,68,79,137,255,Eastern Warm Temperate Developed Ruderal Mixed Forest
+7909,207,171,215,255,Eastern Cool Temperate Urban Shrubland
+7939,122,142,245,255,Eastern Warm Temperate Developed Ruderal Grassland
+7975,255,237,119,255,Eastern Cool Temperate Close Grown Crop
+7957,68,79,137,255,Eastern Warm Temperate Developed Ruderal Mixed Forested Wetland
+7192,255,68,25,255,Recently Logged-Shrub Cover
+9314,255,105,46,255,Northern & Central Native Ruderal Flooded & Swamp Forest
+7317,13,69,133,255,Allegheny-Cumberland Dry Oak Forest and Woodland
+9317,255,105,46,255,Northern & Central Ruderal Shrubland
+7297,253,44,79,255,Developed-Medium Intensity
+7352,13,69,133,255,Southern Appalachian Montane Pine Forest and Woodland
+7906,170,102,205,255,Eastern Cool Temperate Urban Evergreen Forest
+7936,102,119,205,255,Eastern Warm Temperate Developed Ruderal Evergreen Forest
+7193,255,68,25,255,Recently Logged-Tree Cover
+7191,255,68,25,255,Recently Logged-Herb and Grass Cover
+9318,255,105,46,255,Northern & Central Ruderal Wet Meadow & Marsh
+7959,122,142,245,255,Eastern Warm Temperate Developed Ruderal Herbaceous Wetland
+7974,250,255,119,255,Eastern Cool Temperate Row Crop
+7938,158,170,215,255,Eastern Warm Temperate Developed Ruderal Shrubland
+7298,173,0,28,255,Developed-High Intensity
+9724,0,92,0,255,South-Central Interior Small Stream and Riparian Shrubland
+7200,255,68,25,255,Recently Disturbed Other-Tree Cover
+7976,255,255,119,255,Eastern Cool Temperate Fallow/Idle Cropland
+7958,158,170,215,255,Eastern Warm Temperate Developed Ruderal Shrub Wetland

@@ -1,0 +1,98 @@
+BpS,Sclass,Current,Reference
+Appalachian (Hemlock-)Northern Hardwood Forest,A,0,
+Appalachian (Hemlock-)Northern Hardwood Forest,Agriculture,0,
+Appalachian (Hemlock-)Northern Hardwood Forest,B,73,
+Appalachian (Hemlock-)Northern Hardwood Forest,C,8,
+Appalachian (Hemlock-)Northern Hardwood Forest,D,11,
+Appalachian (Hemlock-)Northern Hardwood Forest,UE,4,
+Appalachian (Hemlock-)Northern Hardwood Forest,UN,0,
+Appalachian (Hemlock-)Northern Hardwood Forest,Urban,3,
+Montane Oak Forest,Regeneration,0,12
+Montane Oak Forest,Agriculture,1,0
+Montane Oak Forest,"Mid-development, closed canopy",0,16
+Montane Oak Forest,"Mid-development, open canopy",0,11
+Montane Oak Forest,"Late-development, open canopy",6,18
+Montane Oak Forest,"Late-development, closed canopy",83,43
+Montane Oak Forest,UE,6,0
+Montane Oak Forest,Urban,3,0
+Spruce-Fir Forest,Regeneration,0,17
+Spruce-Fir Forest,Agriculture,0,0
+Spruce-Fir Forest,"Mid-development, closed canopy",83,14
+Spruce-Fir Forest,"Mid-development, open canopy",6,11
+Spruce-Fir Forest,"Late-development, closed canopy",2,58
+Spruce-Fir Forest,UE,5,0
+Spruce-Fir Forest,UN,1,0
+Spruce-Fir Forest,Urban,2,0
+Central Appalachian Alkaline Glade and Woodland,Agriculture,3,
+Central Appalachian Alkaline Glade and Woodland,D,80,
+Central Appalachian Alkaline Glade and Woodland,UE,9,
+Central Appalachian Alkaline Glade and Woodland,UN,7,
+Central Appalachian Dry Oak-Pine Forest,A,0,
+Central Appalachian Dry Oak-Pine Forest,Agriculture,1,
+Central Appalachian Dry Oak-Pine Forest,B,53,
+Central Appalachian Dry Oak-Pine Forest,C,39,
+Central Appalachian Dry Oak-Pine Forest,D,0,
+Central Appalachian Dry Oak-Pine Forest,E,1,
+Central Appalachian Dry Oak-Pine Forest,UE,4,
+Central Appalachian Dry Oak-Pine Forest,UN,0,
+Central Appalachian Dry Oak-Pine Forest,Urban,2,
+Central Appalachian Pine-Oak Rocky Woodland,Agriculture,0,
+Central Appalachian Pine-Oak Rocky Woodland,B,0,
+Central Appalachian Pine-Oak Rocky Woodland,C,27,
+Central Appalachian Pine-Oak Rocky Woodland,D,1,
+Central Appalachian Pine-Oak Rocky Woodland,UE,6,
+Central Appalachian Pine-Oak Rocky Woodland,UN,64,
+Central Appalachian Pine-Oak Rocky Woodland,Urban,1,
+Central Interior and Appalachian Floodplain Systems,A,0,
+Central Interior and Appalachian Floodplain Systems,Agriculture,29,
+Central Interior and Appalachian Floodplain Systems,B,2,
+Central Interior and Appalachian Floodplain Systems,C,24,
+Central Interior and Appalachian Floodplain Systems,D,0,
+Central Interior and Appalachian Floodplain Systems,E,0,
+Central Interior and Appalachian Floodplain Systems,UE,9,
+Central Interior and Appalachian Floodplain Systems,UN,28,
+Central Interior and Appalachian Floodplain Systems,Urban,8,
+Central Interior and Appalachian Riparian Systems,A,1,
+Central Interior and Appalachian Riparian Systems,Agriculture,11,
+Central Interior and Appalachian Riparian Systems,B,48,
+Central Interior and Appalachian Riparian Systems,C,21,
+Central Interior and Appalachian Riparian Systems,D,0,
+Central Interior and Appalachian Riparian Systems,E,3,
+Central Interior and Appalachian Riparian Systems,UE,7,
+Central Interior and Appalachian Riparian Systems,Urban,10,
+Central Interior and Appalachian Swamp Systems,Agriculture,10,
+Central Interior and Appalachian Swamp Systems,B,0,
+Central Interior and Appalachian Swamp Systems,C,75,
+Central Interior and Appalachian Swamp Systems,UE,5,
+Central Interior and Appalachian Swamp Systems,UN,7,
+Central Interior and Appalachian Swamp Systems,Urban,1,
+Dry-Mesic Oak Forest,Regeneration,0,3
+Dry-Mesic Oak Forest,Agriculture,14,0
+Dry-Mesic Oak Forest,"Mid-development, open canopy",0,22
+Dry-Mesic Oak Forest,"Mid-development2, open canopy",9,50
+Dry-Mesic Oak Forest,"Late-development, closed canopy",30,18
+Dry-Mesic Oak Forest,"Late-development2, closed canopy",31,7
+Dry-Mesic Oak Forest,UE,8,0
+Dry-Mesic Oak Forest,UN,0,0
+Dry-Mesic Oak Forest,Urban,8,0
+Southern and Central Appalachian Cove Forest,A,0,
+Southern and Central Appalachian Cove Forest,Agriculture,8,
+Southern and Central Appalachian Cove Forest,B,0,
+Southern and Central Appalachian Cove Forest,C,0,
+Southern and Central Appalachian Cove Forest,D,12,
+Southern and Central Appalachian Cove Forest,E,67,
+Southern and Central Appalachian Cove Forest,UE,6,
+Southern and Central Appalachian Cove Forest,Urban,7,
+Southern Appalachian Montane Pine Forest and Woodland,Agriculture,3,
+Southern Appalachian Montane Pine Forest and Woodland,D,7,
+Southern Appalachian Montane Pine Forest and Woodland,E,64,
+Southern Appalachian Montane Pine Forest and Woodland,UE,26,
+Southern Appalachian Montane Pine Forest and Woodland,Urban,1,
+Southern Ridge and Valley/Cumberland Dry Calcareous Forest,Agriculture,1,
+Southern Ridge and Valley/Cumberland Dry Calcareous Forest,B,0,
+Southern Ridge and Valley/Cumberland Dry Calcareous Forest,C,0,
+Southern Ridge and Valley/Cumberland Dry Calcareous Forest,D,13,
+Southern Ridge and Valley/Cumberland Dry Calcareous Forest,E,25,
+Southern Ridge and Valley/Cumberland Dry Calcareous Forest,UE,18,
+Southern Ridge and Valley/Cumberland Dry Calcareous Forest,UN,37,
+Southern Ridge and Valley/Cumberland Dry Calcareous Forest,Urban,6,

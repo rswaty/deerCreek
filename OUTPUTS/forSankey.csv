@@ -1,0 +1,41 @@
+source,target,value
+BPS  Conifer,EVT  Agricultural,24
+BPS  Conifer,EVT  Conifer,1982
+BPS  Conifer,EVT  Conifer-Hardwood,1015
+BPS  Conifer,EVT Developed,434
+BPS  Conifer,EVT  Exotic Herbaceous,526
+BPS  Conifer,EVT  Exotic Tree-Shrub,8
+BPS  Conifer,EVT  Grassland,0
+BPS  Conifer,EVT  Hardwood,15041
+BPS  Conifer,EVT  Riparian,0
+BPS  Conifer,EVT  Shrubland,2
+BPS  Hardwood,EVT  Agricultural,3377
+BPS  Hardwood,EVT  Conifer,2003
+BPS  Hardwood,EVT  Conifer-Hardwood,4332
+BPS  Hardwood,EVT Developed,3012
+BPS  Hardwood,EVT  Exotic Herbaceous,1485
+BPS  Hardwood,EVT  Exotic Tree-Shrub,23
+BPS  Hardwood,EVT  Grassland,16
+BPS  Hardwood,EVT  Hardwood,38213
+BPS  Hardwood,EVT  Riparian,426
+BPS  Hardwood,EVT  Shrubland,38
+BPS  Hardwood-Conifer,EVT  Agricultural,75
+BPS  Hardwood-Conifer,EVT  Conifer,441
+BPS  Hardwood-Conifer,EVT  Conifer-Hardwood,1746
+BPS  Hardwood-Conifer,EVT Developed,174
+BPS  Hardwood-Conifer,EVT  Exotic Herbaceous,66
+BPS  Hardwood-Conifer,EVT  Exotic Tree-Shrub,1
+BPS  Hardwood-Conifer,EVT  Grassland,0
+BPS  Hardwood-Conifer,EVT  Hardwood,6396
+BPS  Hardwood-Conifer,EVT  Riparian,13
+BPS  Hardwood-Conifer,EVT  Shrubland,2
+BPS  Riparian,EVT  Agricultural,994
+BPS  Riparian,EVT  Conifer,523
+BPS  Riparian,EVT  Conifer-Hardwood,821
+BPS  Riparian,EVT Developed,807
+BPS  Riparian,EVT  Exotic Herbaceous,160
+BPS  Riparian,EVT  Exotic Tree-Shrub,2
+BPS  Riparian,EVT  Grassland,0
+BPS  Riparian,EVT  Hardwood,3451
+BPS  Riparian,EVT  Riparian,949
+BPS  Riparian,EVT  Shrubland,2
